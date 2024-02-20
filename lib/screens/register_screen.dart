@@ -170,7 +170,7 @@ class RegisterScreen extends StatelessWidget {
                 children: [
                   Expanded(
                     child: MaterialButton(
-                      color: const Color(0xFF1E232C),
+                      color: Color.fromARGB(255, 8, 89, 239),
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(8),
                       ),

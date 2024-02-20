@@ -106,7 +106,9 @@ class ScreenOne extends StatelessWidget {
         padding: const EdgeInsets.all(16.0),
         child: SingleChildScrollView(
           child: Text(
-            'Hello, and welcome to My App! We are thrilled to have you here. Dive into a world of possibilities and explore the incredible features that await you. Feel free to make yourself at home and enjoy the journey!',
+            'Welcome to our platform!'
+                    ' We are thrilled to have you join our community. Whether you are here to explore new ideas, connect with like-minded individuals, or embark on a journey of learning and growth, you have come to the right place. '
+                    'Our platform is designed to be a welcoming and inclusive space where everyone voice is valued and respected. From informative discussions to engaging activities, Welcome aboard!',
             textAlign: TextAlign.center,
             style: TextStyle(
               fontSize: 20,
@@ -126,7 +128,8 @@ class ScreenThree extends StatelessWidget {
         padding: const EdgeInsets.all(16.0),
         child: SingleChildScrollView(
           child: Text(
-            'Explore the endless possibilities with our innovative app, designed to simplify your daily tasks and enhance your digital experience. From intuitive features to seamless navigation, we strive to deliver a user-centric platform that adapts to your needs.',
+            "At our core, we are a passionate team dedicated to fostering a vibrant and supportive community. With a commitment to excellence and innovation, "
+                    "we strive to create a platform where individuals from all walks of life can come together to learn, grow, and connect.",
             textAlign: TextAlign.center,
             style: TextStyle(
               fontSize: 20,
